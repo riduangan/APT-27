@@ -1,0 +1,10 @@
+# APT27 ZxShell RootKit module updates 
+
+
+https://lab52.io/blog/apt27-rootkit-updates/
+
+
+IOC
+
+x64 Sample	42eab05c611bf24d86bb6c985caa2ad7380ed7d98340c7f08de9361be14dc244
+x86 Sample	9b7c1e37d5f56cc0b5e5e22ce9805e237a189297e78405b9c392a0953b6e0321
